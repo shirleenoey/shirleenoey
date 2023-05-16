@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shirleenoey
+- 👋 Hi, I’m Shirleen
 - 👀 I’m interested in building simple roboust web apps to accomodate people's need
 - 🌱 I’m currently learning full cycle of Web developement, Progressive Web Apps (PWA), React, Javascript
 - 💞️ I’m looking to collaborate on web developement, react, javascript related projects
