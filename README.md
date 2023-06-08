@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shirleen.
-- 👀 I’m interested in building simple roboust web apps to accomodate people's need.
-- 🌱 I’m currently learning full cycle of Web developement, Progressive Web Apps (PWA), React, Javascript.
-- 💞️ I’m looking to collaborate on web developement, react, javascript related projects.
+- 👀 I’m interested in Data Analytics, Data Science, and solving business problem with Data.
+- 🌱 I’m currently learning Data Analytics, Data Science, and Data Engineer.
+- 💞️ I’m looking to collaborate on data related project in e-commerce, finance & banking industry.
 - 📫 Reach me via linkedin https://www.linkedin.com/in/shirleenfirdaus/ 
 
 <!---
